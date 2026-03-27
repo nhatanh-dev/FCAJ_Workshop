@@ -23,7 +23,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 05/01/2026 đến ngày [...]
 
-<img src="/fcaj-workshop/images/avatar.jpg" alt="Ảnh đại diện" width="350">
+<img src="/fcaj-workshop/images/avatar.jpg" alt="Ảnh đại diện" width="150">
 
 ### Nội dung báo cáo
 

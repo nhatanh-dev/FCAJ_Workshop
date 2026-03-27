@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-Trang Worklog này ghi chú lại chi tiết toàn bộ quá trình thực tập và làm việc của mình trong suốt 12 tuần tham gia chương trình First Cloud AI Journey (FCAJ) tại AWS. Dưới đây là tóm tắt lộ trình học tập, nghiên cứu kiến trúc Cloud và quá trình triển khai thực tế dự án SmartInvoice của mình qua từng tuần:
+Trang Worklog này ghi chú lại chi tiết toàn bộ quá trình thực tập và làm việc của mình trong suốt 11 tuần tham gia chương trình First Cloud AI Journey (FCAJ) tại AWS. Dưới đây là tóm tắt lộ trình học tập, nghiên cứu kiến trúc Cloud và quá trình triển khai thực tế dự án SmartInvoice của mình qua từng tuần:
 
 **Tuần 1:** [Làm quen với AWS (EC2, S3, VPC, RDS), thực hành quản lý tài khoản (Budgets, Alerts) và tham gia Kickoff FCAJ.](1.1-week1/)
 
