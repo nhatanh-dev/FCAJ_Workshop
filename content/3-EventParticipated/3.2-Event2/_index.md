@@ -1,0 +1,44 @@
+---
+title: "Event 2"
+date: 2026-03-14
+weight: 2
+chapter: false
+pre: " <b> 3.2. </b> "
+---
+
+# AWS Cloud Mastery for FPTU – AI Edition
+
+### Event Overview
+
+Unlike massive global conferences, the **AWS Cloud Mastery for FPTU – AI Edition** was an exclusive, highly focused event tailored specifically for FPT University students participating in the FCAJ program. The concise 3-hour agenda featured three deep-dive sessions focusing on practical AI integration and real-world application building.
+
+### Speakers & Key Topics
+
+- **Cam Vinh Banh (Data Engineer)**: Addressed the foundation of building AI Agents using the AWS Strands framework, demonstrating how it intelligently selects suitable models to process user queries.
+- **Aiden Dinh**: Showcased real-world AIoT and Cloud integration projects, notably **Plutus**—a personal budget management app leveraging Amazon Textract for content-aware Invoice OCR.
+- **Thịnh Nguyễn (Prompting Engineer)**: Delivered a comprehensive guide on "Automated Prompt Engineering," covering essential structures (Role, Context, Constraints) and advanced techniques like Chain-of-Thought and RAG to optimize LLM outputs.
+
+### My Personal Experience & Direct Application
+
+This event was incredibly impactful for me. Because the scale was more intimate and targeted toward students, the information was highly digestible. Those three hours significantly leveled up my understanding of applied AI. 
+
+#### 1. A New Perspective on My Mentor
+One of the most inspiring moments was seeing Mr. Thịnh Nguyễn—who is a mentor guiding my team daily in the FCAJ program—on stage as a speaker. His expertise and dedication to supporting our growth gave me a newfound respect for him. More importantly, his session on Prompt Engineering immediately improved how I interact with AI. Applying his techniques made my prompts for the **SmartInvoice** project much more effective and turned working with AI from a potentially tedious task into an engaging process.
+
+#### 2. A 90% Match with the SmartInvoice Project
+When Aiden Dinh presented the **Plutus** project and discussed solving the Invoice OCR challenge, I felt like he was speaking directly about my team's core problem! It was a 90% match with our SmartInvoice system. While Aiden utilized Amazon Textract (which is highly optimized for English invoices) and our team opted for a different model better suited for our specific needs, the underlying architectural concepts were identical. After the event, my team even approached Aiden for further consultation, and his enthusiastic guidance was incredibly valuable for our development roadmap.
+
+#### 3. Demystifying AI Agents with AWS Strands
+Mr. Cam Vinh Banh’s presentation on AWS Strands opened my eyes to the concept of AI agent frameworks. His demo clearly illustrated how Strands acts as a smart orchestrator, automatically selecting the most appropriate underlying models to handle specific tasks. It gave me solid ideas on how to build more autonomous applications in the future.
+
+> **Conclusion:** This event was the perfect bridge between theory and practice. It not only provided actionable knowledge that I directly applied to our SmartInvoice pipeline but also allowed me to connect with inspiring industry practitioners and my own mentors on a deeper level.
+
+#### Some event photos
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; margin-top: 20px;">
+    <img src="/FCAJ_Workshop/images/4-Event/cloud_mastery/0S0A0139.jpg" alt="Event Photo 1" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+    <img src="/FCAJ_Workshop/images/4-Event/cloud_mastery/0S0A0199.jpg" alt="Event Photo 2" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+    <img src="/FCAJ_Workshop/images/4-Event/cloud_mastery/0S0A0203.jpg" alt="Event Photo 3" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+    <img src="/FCAJ_Workshop/images/4-Event/cloud_mastery/0S0A0209.jpg" alt="Event Photo 4" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+    <img src="/FCAJ_Workshop/images/4-Event/cloud_mastery/0S0A9981.jpg" alt="Event Photo 5" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+    <img src="/FCAJ_Workshop/images/4-Event/cloud_mastery/0S0A9986.jpg" alt="Event Photo 6" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+</div>
