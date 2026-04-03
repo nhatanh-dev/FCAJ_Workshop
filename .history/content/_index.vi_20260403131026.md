@@ -17,7 +17,7 @@ chapter: false
 
 &emsp; **Ngành:** Kỹ thuật phần mềm
 
-&emsp; **Công ty thực tập:** Bootcamp - First Cloud AI Journey @ AWS Study Group
+&emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
 
 &emsp; **Vị trí thực tập:** FCAJ Cloud Intern
 

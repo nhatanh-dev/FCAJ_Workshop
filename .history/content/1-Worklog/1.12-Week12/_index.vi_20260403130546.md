@@ -19,7 +19,7 @@ pre: " <b> 1.12. </b> "
 | 2 | - Xem video hướng dẫn trên YouTube về cách vẽ sơ đồ kiến trúc AWS chuyên nghiệp.<br>- Bắt đầu phác thảo (draft) phiên bản đầu tiên của sơ đồ kiến trúc AWS cho SmartInvoice. | 30/03/2026 | 30/03/2026 | [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/) |
 | 3 | - Review sơ đồ kiến trúc đã phác thảo với team hoặc mentor.<br>- Chỉnh sửa và bổ sung các thành phần còn thiếu (networking, security, auto-scaling) vào sơ đồ dựa trên feedback. | 31/03/2026 | 31/03/2026 | |
 | 4 | - Hoàn thiện bản cuối (chốt) của sơ đồ kiến trúc tổng quan AWS.<br>- Nhúng sơ đồ đã hoàn thành vào tài liệu workshop và chuẩn bị nội dung thuyết trình xoay quanh kiến trúc này. | 01/04/2026 | 01/04/2026 | |
-| 5 | - Thực hiện các điều chỉnh nhỏ cuối cùng và sửa lỗi trên bản vẽ kiến trúc và tài liệu báo cáo | 02/04/2026 | 03/04/2026 | |
+| 5 | - Thực hiện các điều chỉnh nhỏ cuối cùng và sửa lỗi (nếu có) trên mã nguồn dự án SmartInvoice.<br>- Chạy thử (dry run) buổi trình bày workshop. | 02/04/2026 | 03/04/2026 | |
 
 ### Kết quả đạt được tuần 12:
 
